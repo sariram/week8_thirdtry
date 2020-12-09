@@ -33,7 +33,6 @@ h2 {
 h3 {
   color: black;
   font-size: 18px;
-  font-style: bolder;
   text-align: center;
   padding-top: 45px; }
 
@@ -43,8 +42,7 @@ p.headlines {
   padding-top: 60px;
   font-weight: 600;
   letter-spacing: 2px;
-  text-align: center;
-  font-style: bold; }
+  text-align: center; }
 
 h4 {
   color: white;
@@ -176,7 +174,7 @@ img.black {
   padding-bottom: 10px; }
 
 .price1 {
-  color: #black;
+  color: black;
   font-size: 60px;
   font-weight: 700; }
 
