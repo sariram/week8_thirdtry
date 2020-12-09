@@ -254,7 +254,7 @@ p.cliff {
   padding-bottom: 30px; }
 
 .subscribe {
-  background-image: url("/images/Cliffs.png");
+  background-image: url("../images/screenshot.png");
   background-size: cover;
   padding-top: 2rem;
   padding-bottom: 14rem; }
