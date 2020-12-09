@@ -24,28 +24,27 @@ h1 {
   padding-top: 131px;
   padding-bottom: 10px; }
 
-  h2 {
-    font-weight: 700;
-    font-size: 44px;
-    padding-top: 50px;
-    padding-bottom: 20px; }
+h2 {
+  font-weight: 700;
+  font-size: 44px;
+  padding-top: 50px;
+  padding-bottom: 20px; }
 
 h3 {
   color: black;
   font-size: 18px;
   font-style: bolder;
   text-align: center;
-  padding-top: 45px;}
+  padding-top: 45px; }
 
 p.headlines {
-  color:black;
+  color: black;
   font-size: 15px;
   padding-top: 60px;
   font-weight: 600;
   letter-spacing: 2px;
   text-align: center;
-  font-style: bold;
-}
+  font-style: bold; }
 
 h4 {
   color: white;
@@ -57,7 +56,7 @@ h4 {
 h5 {
   font-size: 1rem;
   font-weight: 700;
-  padding-top: 40px;}
+  padding-top: 40px; }
 
 h6 {
   font-size: 1.5rem;
@@ -100,12 +99,11 @@ img.silver {
   padding-bottom: 80px;
   padding-left: 80px;
   padding-right: 80px;
-  padding-top: 10px;}
+  padding-top: 10px; }
 
 img.black {
   padding-left: 75px;
-  padding-top: 20px;
-}
+  padding-top: 20px; }
 
 .btn.learn {
   font-size: 15px;
@@ -158,19 +156,17 @@ img.black {
   padding-bottom: 10px; }
 
 .boxes {
-    background: #1781FF;
-    border-radius: 5px;
-    padding-top: 20px;
-    padding-bottom: 10px;
-   }
+  background: #1781FF;
+  border-radius: 5px;
+  padding-top: 20px;
+  padding-bottom: 10px; }
 
 .card1 {
   color: black;
   font-size: 20px;
   font-weight: 700;
   padding-top: 10px;
-  padding-bottom: 10px;
- }
+  padding-bottom: 10px; }
 
 .card2 {
   color: white;
@@ -230,7 +226,7 @@ ul.benefits2 {
   border-radius: 20px;
   border-color: #1781FF;
   padding: 10px 40px;
-  color: #242526;}
+  color: #242526; }
 
 .btn.start2 {
   font-size: 15px;
@@ -243,96 +239,92 @@ ul.benefits2 {
   border-radius: 20px;
   border-color: white;
   padding: 10px 40px;
-  color: #242526;}
-
-.row.bottom {}
+  color: #242526; }
 
 p.subscribenow {
-    color: white;
-    font-size: 70px;
-    font-weight: 700;
-    text-align: center;
-    padding-top: 55px;
-    padding-bottom: 3px; }
+  color: white;
+  font-size: 70px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 55px;
+  padding-bottom: 3px; }
 
 p.cliff {
   color: white;
   font-size: 25px;
   text-align: center;
-  padding-bottom: 30px;
-}
+  padding-bottom: 30px; }
 
 .subscribe {
-  background-image: url(https://www.catherinenguyendesign.com/uclax_wcib_week_8/images/cliff.png);
+  background-image: url("../images/cliffs.png");
   background-size: cover;
   padding-top: 2rem;
   padding-bottom: 14rem; }
 
 .user-email {
-      border: none;
-      background-color: rgba(200, 200, 200, 0.33);
-      border-radius: 5px;
-      padding: 1rem;
-      font-size: 20px;
-      width: 600px;
-  }
+  border: none;
+  background-color: rgba(200, 200, 200, 0.33);
+  border-radius: 5px;
+  padding: 1rem;
+  font-size: 20px;
+  width: 600px; }
 
 .email-button {
-      background-color: white;
-      border: none;
-      padding-top: 1rem;
-      padding-bottom: 1rem;
-      padding-left: 5rem;
-      padding-right: 5rem;
-      border-radius: 5px;
-      font-size: 15px;
-      font-weight: 700;
-      box-shadow: 10px 5px 25px black;
-      letter-spacing: 2px;
-      margin-left: -5px;
-  }
+  background-color: white;
+  border: none;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: 700;
+  box-shadow: 10px 5px 25px black;
+  letter-spacing: 2px;
+  margin-left: -5px; }
 
-  ::placeholder {
-    color: white; }
+::placeholder {
+  color: white; }
 
-  input[type=text] {
-    color: white; }
+input[type=text] {
+  color: white; }
 
 footer {
-  padding-top: 3rem;}
+  padding-top: 3rem; }
 
 .navbar {
-        margin-bottom: 3em; }
+  margin-bottom: 3em; }
+
 .navbar div ul {
-        list-style: none; }
+  list-style: none; }
+
 .navbar div ul li {
-        font-weight: 700;
-        font-size: 18px;
-        display: inline;
-        padding-left: 1rem;
-       }
+  font-weight: 700;
+  font-size: 18px;
+  display: inline;
+  padding-left: 1rem; }
 
 p.footer {
   font-size: 20px;
   text-align: left;
-  color: gray;}
+  color: gray; }
 
 p.footer1 {
-    font-size: 15px;
-    text-align: right;
-    color: gray;}
+  font-size: 15px;
+  text-align: right;
+  color: gray; }
 
 .footerlinks {
-        color: black; }
+  color: black; }
 
 .footerlinks:hover {
-        text-decoration: none;
-        border-bottom-style: solid;
-        border-bottom-color: gray;
-        color: gray;
-        border-bottom-width: 3px; }
+  text-decoration: none;
+  border-bottom-style: solid;
+  border-bottom-color: gray;
+  color: gray;
+  border-bottom-width: 3px; }
 
 .social {
-        padding-left: 1rem;
-        width: 50px;
-        height: 50px; }
+  padding-left: 1rem;
+  width: 50px;
+  height: 50px; }
